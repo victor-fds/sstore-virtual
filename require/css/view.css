@@ -1,0 +1,84 @@
+main > nav{width: 20rem; float: left;}
+	/*menu*/
+	main > nav > ul {float: left; width: 90%; margin: 1rem;  margin-left: 2rem;}
+	main > nav > ul > li{width: 100%; font-size: 1.4rem; background: #53ac63; color: #fff;}
+	main > nav > ul > li > img{margin-right: .5rem; max-width: 1rem;  margin-left: 1rem;}
+	/*submenu itens*/
+	main > nav > ul > li > ul{ float: left; width: 100%;}
+	main > nav > ul > li > ul > li{margin-top: .2rem;}
+	main > nav > ul > li > ul > li > a{float: left;  margin-left: 1.5rem; width: 92.5%}
+	main > nav > ul > li > ul > li > a:hover{color: #fff; background: #80cb70;}
+	
+main > div{
+	width: 100rem;
+	float: left;
+	margin-left: 1rem;
+	margin-top: .5rem;	
+}
+
+.inputField{ height: 2.3rem; border: 0.1rem solid #1d3a22; }
+
+
+main > div > div:nth-of-type(1){ float: left; width: 100%;  margin-bottom: 1rem;}
+	main > div > div:nth-of-type(1) > span{ font-weight: bolder; font-size: 2rem;}
+	
+/* Image and Next/Before*/
+main > div > figure { float: left; width: 30%; position: relative; }
+	main > div > figure > img{ max-width: 28.3rem; max-height: 36.3rem; }
+	main > div > figure > figcaption > ul > li{ float: left; width: 22%;}
+	main > div > figure > figcaption > ul > li > a { padding: .1rem; }
+	main > div > figure > figcaption > ul > li > a > img{ max-width: 5rem; max-height: 5rem; border: .1rem solid #afdba8; }
+	
+/*Image Full*/
+main > div > figure > div{ height: 40rem; width: 70rem; background: #def0db; float: right; margin-left: 30rem; position: absolute; display: none;}
+	main > div > figure > div > img{ max-width: 78rem; max-height: 38rem; padding: 1rem; text-align: center; }
+	main > div > figure:hover > div{ display: block; } 
+	
+/*Price about*/
+main > div > div:nth-of-type(2){ float: left; width: 67%; border: .1rem solid #181818; border-radius: .5rem .5rem 0 0;
+								padding: 1rem;}
+	main > div > div:nth-of-type(2) > div{ float: left; width: 85%;}
+		main > div > div:nth-of-type(2) > div span{ font-weight: bolder; font-size: 1.8rem; color: #45bf3c; }
+
+/* Product Frete */
+main > div > div:nth-of-type(3){ float: left; width: 67.2%; background: #53ac63; padding: 1rem;}
+	main > div > div:nth-of-type(3) img {float: left; margin: 0.2rem 0.3rem 0rem 0rem; max-width: 1.5rem; padding: .9rem 0;}
+	main > div > div:nth-of-type(3) p { float: left; padding: .9rem 0; color: #def0db; font-size: 1.4rem;}
+	main > div > div:nth-of-type(3) span { color: #970000; float: left; padding: .9rem 0; }
+	main > div > div:nth-of-type(3) form > input { height: 2.1rem; float: right; }
+	main > div > div:nth-of-type(3) form > button { float: right;  }
+	main > div > div:nth-of-type(3) form > div { float: right; width: 100%; display: none; }
+
+/* Product Description */
+main > div > div:nth-of-type(4){ float: left; width: 100%; padding: 1rem; }
+	main > div > div:nth-of-type(4) > p:nth-of-type(1) { font-size: 1.6rem; font-weight: bolder; }
+	main > div > div:nth-of-type(4) > p:nth-of-type(2) { font-size: 1.4rem; }
+
+/* Product Ratings */
+main > div > div:nth-of-type(5){ float: left; width: 100%; padding: 1rem; }
+	main > div > div:nth-of-type(5) > ul:nth-of-type(1) > li { font-size: 1.6rem; font-weight: bolder; width: 50%; float: left;}
+	main > div > div:nth-of-type(5) > ul:nth-of-type(2),
+	main > div > div:nth-of-type(5) > ul:nth-of-type(3){width: 50%; float: left;}
+	
+/* Related Products */
+main > div > div:nth-of-type(6) { margin: 1rem 0; float: left; width: 100%; padding: 1rem; border: .1rem solid #000; border-radius: 1rem;}
+	/* Title */
+	main > div > div:nth-of-type(6) > p:nth-of-type(1) { font-size: 2rem; font-weight: bolder; width: 100%; padding-bottom: 1rem; color: #53ac63;}
+	main > div > div:nth-of-type(6) > div { float: left; width: 25%; }
+	main > div > div:nth-of-type(6) > div > figure { text-align: center; }
+	main > div > div:nth-of-type(6) > div > figure > a > img { max-width: 11rem; max-height: 17rem;}
+	main > div > div:nth-of-type(6) > div > figure > p > a { font-weight: bolder; font-size: 1.3rem; color: #45bf3c; }
+	main > div > div:nth-of-type(6) > div > figure > p > a:hover { text-decoration: underline; }
+	main > div > div:nth-of-type(6) > div > figure > figcaption > p { padding: 0 1rem; }
+	
+/* Comments Zone */
+main > div > div:nth-of-type(7) { float: left; width: 100%; padding: 1rem;}
+	/* Title */
+	main > div > div:nth-of-type(7) > p { font-size: 2rem; font-weight: bolder; width: 100%; padding-bottom: 1rem; color: #53ac63; }
+	main > div > div:nth-of-type(7) > div{ border-top: .1rem dotted #53ac63; border-bottom: .1rem dotted #53ac63; margin-bottom: .8rem; }
+	main > div > div:nth-of-type(7) > div > p:nth-of-type(1) { font-size: 1.5rem; font-weight: bolder; padding: .8rem 0; }
+	main > div > div:nth-of-type(7) > div > p:nth-of-type(2) { font-size: 1.5rem; padding-bottom: .2rem; font-weight: bolder; }
+	main > div > div:nth-of-type(7) > div > p:nth-of-type(3) { font-size: 1.5rem; padding-bottom: .2rem; }
+	
+
+	

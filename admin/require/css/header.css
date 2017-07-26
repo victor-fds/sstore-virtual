@@ -1,0 +1,39 @@
+*{
+	font-family: 'Lucida', 'Tahoma', 'Verdana';
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	color: #000;
+}
+
+html{
+	font-size: 62.5%;
+	width: 100%;
+	float: left;
+	background: #f7f7f7;
+}
+
+body{
+	width: 100%; 
+	font-size: 1.4rem;
+	margin: 0 auto;
+}
+
+header,main,footer{
+	background: #f7f7f7;
+	float: left;
+	width: 100%;
+}
+main{height: 100%;}
+
+
+.inputButton{
+	height: 2.9rem;
+	border: 0.1rem solid #53ac63;
+}
+
+.input{padding: 0 0.5rem;}
+.button{background: #53ac63; color: #fff;font-weight: bolder; cursor: pointer; font-size: 1.4rem; border-radius: 0 1rem 1rem 0; }
+.link{color: #80cb70;}
+.link:hover{text-decoration: underline;}

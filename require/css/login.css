@@ -1,0 +1,37 @@
+main form{
+	background: #fff;
+	border: .1rem solid #CCCCCC;
+	border-radius: 1rem;	
+	float: left;
+}
+
+/*form size*/
+main form:nth-of-type(1){ width: 45rem; height: 23rem; margin: 1.5rem 2rem 1.5rem 20rem; }
+main form:nth-of-type(2){ width: 45rem;	height: 29rem; margin: 1.5rem 3rem 1.5rem 3rem; }
+
+/*title options*/
+main form > div:nth-of-type(1){	background: #53ac63; margin-top: .01rem; border-radius: 1rem 1rem 0 0;}
+	main form div p:nth-of-type(1){	color: #E8F5E9; background: none;padding-top: 1rem;font-size: 1.5rem;font-weight: bolder;}
+	main form div p:nth-of-type(2){	color: #E8F5E9; margin: 0 2.2rem 3rem 2.2rem;padding-bottom: 1rem;font-size: 1.3rem;}
+
+/*form proprietities*/
+main form > div:nth-of-type(2),
+main form > div:nth-of-type(3),
+main form > div:nth-of-type(4),
+main form > div:nth-of-type(5),
+main form > div:nth-of-type(6){	background: none; margin: 0 auto 1.5rem; text-align: right; width: 33rem; }
+
+/*label for*/
+main form label{ background: none; padding: .5rem .6rem; color: #7D6666; font-weight: bolder; }
+
+/*input css*/
+main form input[type='text'], input[type='password']{ border: .1rem solid #BDC7D8; height: 2rem; padding: 0 .5rem; width: 20rem; }
+
+/*button css*/
+main form button{ background: #53ac63; border: .1rem solid #29447E; float: right; cursor: pointer; color: #FFF; padding: .4rem .7rem; font-weight: bolder; }
+main form button:hover{ opacity: 0.8; }
+
+/*return css*/
+main form div span{	width: 20rem; font-size: 1.3rem; padding-right: 1rem; }
+
+

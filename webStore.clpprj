@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\AppServ\www\webStore\webStore.clpprj">
+	<settings><PM_URL><![CDATA[C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\webStore\]]></PM_URL><PM_HOME_URL><![CDATA[C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\webStore\]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";C:\AppServ\www\webStore\admin\require\js\menubody.js;C:\AppServ\www\webStore\admin\require\template\logout.php;C:\AppServ\www\webStore\require\css\admin;C:\AppServ\www\webStore\require\js\Codelobster0.js;C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\webStore\require\class\CheckPass.class.php;C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\webStore\require\template\leftnav.php;"/><added value=""/><lastopfiles>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="C:\AppServ\www\webStore\require\template\leftnav.php">
+			<error val="2;7;7;7;252;1;"/>
+		</errfile>
+	</errors>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\AppServ\www\webStore\require\template\view.php" crc="1501036101"/>
+		<file name="C:\AppServ\www\webStore\require\template\leftnav.php" crc="1499750976"/>
+		<file name="C:\AppServ\www\webStore\require\template\home.php" crc="1501036834"/>
+		<file name="C:\AppServ\www\webStore\require\template\header.php" crc="1501037062"/>
+		<file name="C:\AppServ\www\webStore\require\template\footer.php" crc="1499223956"/>
+		<file name="C:\AppServ\www\webStore\require\template\error.php" crc="1501031765"/>
+		<file name="C:\AppServ\www\webStore\require\template\category.php" crc="1501037583"/>
+		<file name="C:\AppServ\www\webStore\require\js\user.js" crc="1501100961"/>
+		<file name="C:\AppServ\www\webStore\require\js\jquery.js" crc="1497407792"/>
+		<file name="C:\AppServ\www\webStore\require\jpost\jLogin.php" crc="1500399406"/>
+		<file name="C:\AppServ\www\webStore\require\css\view.css" crc="1500010325"/>
+		<file name="C:\AppServ\www\webStore\require\css\register.css" crc="1500399630"/>
+		<file name="C:\AppServ\www\webStore\require\css\login.css" crc="1501021596"/>
+		<file name="C:\AppServ\www\webStore\require\css\home.css" crc="1501020206"/>
+		<file name="C:\AppServ\www\webStore\require\css\header.css" crc="1501031492"/>
+		<file name="C:\AppServ\www\webStore\require\css\footer.css" crc="1501030252"/>
+		<file name="C:\AppServ\www\webStore\require\css\category.css" crc="1501037719"/>
+		<file name="C:\AppServ\www\webStore\require\config\Config.php" crc="1501036035"/>
+		<file name="C:\AppServ\www\webStore\require\class\cache\timthumb_int_d3bacf6281eade530459958a2e7bc90c.timthumb.txt" crc="1498097610"/>
+		<file name="C:\AppServ\www\webStore\require\class\cache\timthumb_int_49a0fc67de3f54fead3df8a5f79ea407.timthumb.txt" crc="1498083551"/>
+		<file name="C:\AppServ\www\webStore\require\class\cache\timthumb_int_116f4a891588f07bec4b12647932e334.timthumb.txt" crc="1498097610"/>
+		<file name="C:\AppServ\www\webStore\require\class\cache\index.html" crc="1498098064"/>
+		<file name="C:\AppServ\www\webStore\require\class\User.class.php" crc="1500399463"/>
+		<file name="C:\AppServ\www\webStore\require\class\Tools.class.php" crc="1499659464"/>
+		<file name="C:\AppServ\www\webStore\require\class\SQManager.class.php" crc="1500945238"/>
+		<file name="C:\AppServ\www\webStore\require\class\Mini.php" crc="1497909744"/>
+		<file name="C:\AppServ\www\webStore\require\class\Home.class.php" crc="1501036069"/>
+		<file name="C:\AppServ\www\webStore\require\class\ConnectDB.class.php" crc="1500944926"/>
+		<file name="C:\AppServ\www\webStore\require\class\CatManager.class.php" crc="1500947885"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\menunav_new.php" crc="1501015090"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\menunav_del.php" crc="1500948201"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\menunav_alter.php" crc="1501015080"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\menunav.php" crc="1501015112"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\menubody_new.php" crc="1501014543"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\menubody_del.php" crc="1501014192"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\menubody_alter.php" crc="1501013552"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\menubody.php" crc="1501014778"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\alterprod_alter.php" crc="1501020112"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\alterprod.php" crc="1501020063"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\alinks_new.php" crc="1501015248"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\alinks_del.php" crc="1501015254"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\alinks_alter.php" crc="1501015286"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\alinks.php" crc="1501015816"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\etc\addproduct.php" crc="1501017714"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\panel.php" crc="1501018684"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\home.php" crc="1500481627"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\header.php" crc="1500445286"/>
+		<file name="C:\AppServ\www\webStore\admin\require\template\footer.php" crc="1500406346"/>
+		<file name="C:\AppServ\www\webStore\admin\require\js\admin.js" crc="1501017919"/>
+		<file name="C:\AppServ\www\webStore\admin\require\css\panel.css" crc="1501084143"/>
+		<file name="C:\AppServ\www\webStore\admin\require\css\home.css" crc="1501083877"/>
+		<file name="C:\AppServ\www\webStore\admin\require\css\header.css" crc="1501084061"/>
+		<file name="C:\AppServ\www\webStore\admin\require\class\jLogin.php" crc="1500445402"/>
+		<file name="C:\AppServ\www\webStore\admin\require\class\CommandMan.php" crc="1501019129"/>
+		<file name="C:\AppServ\www\webStore\admin\require\class\AdUser.class.php" crc="1500445566"/>
+		<file name="C:\AppServ\www\webStore\admin\require\class\AdManager.class.php" crc="1501020146"/>
+		<file name="C:\AppServ\www\webStore\admin\logout.php" crc="1500481055"/>
+		<file name="C:\AppServ\www\webStore\admin\index.php" crc="1500445346"/>
+		<file name="C:\AppServ\www\webStore\view.php" crc="1501037210"/>
+		<file name="C:\AppServ\www\webStore\tasks.txt" crc="1500950512"/>
+		<file name="C:\AppServ\www\webStore\register.php" crc="1500399657"/>
+		<file name="C:\AppServ\www\webStore\login.php" crc="1500481647"/>
+		<file name="C:\AppServ\www\webStore\index.php" crc="1501020371"/>
+		<file name="C:\AppServ\www\webStore\fakeid.txt" crc="1500003813"/>
+		<file name="C:\AppServ\www\webStore\colors.txt" crc="1501021038"/>
+	</filescache>
+</project>

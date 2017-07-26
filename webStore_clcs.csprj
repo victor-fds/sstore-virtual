@@ -1,0 +1,496 @@
+<codestructure version="5.13">
+<phptree>
+<treenode node="../require/config/Config.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\panel.php;f14;1;42;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../require/config/Config.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\alterlinks.php;f14;2;42;2;;C:\AppServ\www\webStore\admin\require\template\etc\alinks.php;f14;2;42;2;;C:\AppServ\www\webStore\admin\require\template\etc\alterproduct.php;f14;2;42;2;;C:\AppServ\www\webStore\admin\require\template\etc\alterprod.php;f14;2;42;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../require/config/Config.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\menubody.php;f14;2;42;2;;C:\AppServ\www\webStore\admin\require\template\etc\menunav.php;f14;2;42;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../../../require/class/SQManager.class.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\class\CommandMan.php;f13;1;55;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../../../require/config/Config.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\class\CommandMan.php;f13;2;47;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../require/class/SQManager.class.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\class\AdManager.class.php;f13;2;49;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../require/config/Config.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\class\AdManager.class.php;f13;3;41;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../require/class/SQManager.class.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\class\SQManager.php;f13;2;49;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../require/config/Config.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\logout.php;f14;2;42;2;;C:\AppServ\www\webStore\admin\require\class\SQManager.php;f13;3;41;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../../../require/class/SQManager.class.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\class\AdUser.class.php;f13;1;55;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../../../require/class/Tools.class.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\class\AdUser.class.php;f13;2;51;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../../../require/config/Config.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\class\AdUser.class.php;f13;3;47;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../require/config/Config.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\header.php;f16;13;44;13;;C:\AppServ\www\webStore\admin\index.php;f14;2;42;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../class/SQManager.class.php;PHP:PHP Include;C:\AppServ\www\webStore\require\class\User.class.php;f14;3;42;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../class/Tools.class.php;PHP:PHP Include;C:\AppServ\www\webStore\require\class\User.class.php;f14;2;38;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../class/User.class.php;PHP:PHP Include;C:\AppServ\www\webStore\require\jpost\jLogin.php;f8;1;31;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../config/Config.php;PHP:PHP Include;C:\AppServ\www\webStore\require\class\User.class.php;f14;1;34;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ADM_LOGIN;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f8;5;17;5;;;;vpos;;v;;rmd5(&apos;pAdChange&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="AdUser.class.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\class\jLogin.php;f8;1;24;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ALLOW_ALL_EXTERNAL_SITES;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f53;31;77;31;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ALLOW_EXTERNAL;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f44;30;58;30;;;;vpos;;v;;rTRUE;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="BLOCK_EXTERNAL_LEECHERS;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f52;27;75;27;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="BROWSER_CACHE_DISABLE;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f50;43;71;43;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="BROWSER_CACHE_MAX_AGE;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f50;42;71;42;;;;vpos;;v;;r864000;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="CURL_TIMEOUT;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f43;39;55;39;;;;vpos;;v;;r20;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEBUG_LEVEL;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f42;25;53;25;;;;vpos;;v;;r1;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEBUG_ON;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f40;24;48;24;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_CC;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f41;54;51;54;;;;vpos;;v;;r&apos;ffffff&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_F;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f41;52;50;52;;;;vpos;;v;;r&apos;&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_HEIGHT;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f44;56;58;56;;;;vpos;;v;;r100;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_ID;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f8;16;18;16;;;;vpos;;v;;r&apos;id_&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_Q;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f41;50;50;50;;;;vpos;;v;;r90;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_S;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f41;53;50;53;;;;vpos;;v;;r0;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_WIDTH;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f44;55;57;55;;;;vpos;;v;;r100;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_ZC;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f41;51;51;51;;;;vpos;;v;;r1;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DISPLAY_ERROR_MESSAGES;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f50;28;72;28;;;;vpos;;v;;rtrue;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="error.php;PHP:PHP Include;C:\AppServ\www\webStore\require\template\leftnav.php;f16;10;25;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ERROR_IMAGE;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f42;48;53;48;;;;vpos;;v;;r&apos;&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_CACHE_DIRECTORY;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f50;37;70;37;;;;vpos;;v;;r&apos;./cache&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_CACHE_ENABLED;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f48;32;66;32;;;;vpos;;v;;rTRUE;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_CACHE_MAX_FILE_AGE;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f52;34;75;34;;;;vpos;;v;;r86400;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_CACHE_PREFIX;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f47;36;64;36;;;;vpos;;v;;r&apos;timthumb&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_CACHE_SUFFIX;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f47;35;64;35;;;;vpos;;v;;r&apos;.timthumb.txt&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_CACHE_TIME_BETWEEN_CLEANS;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f57;33;87;33;;;;vpos;;v;;r86400;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="footer.php;PHP:PHP Include;C:\AppServ\www\webStore\require\template\leftnav.php;f16;11;26;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="header.php;PHP:PHP Include;C:\AppServ\www\webStore\require\template\leftnav.php;f16;8;26;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_ASIDE_CATEGORY;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;43;29;43;;;;vpos;;v;;r&apos;category&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_ASIDE_DESC;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;41;25;41;;;;vpos;;v;;r&apos;des&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_ASIDE_FID;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;42;24;42;;;;vpos;;v;;r&apos;internal_&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_ASIDE_HIDE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;40;25;40;;;;vpos;;v;;r&apos;hide_&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_ASIDE_IMG;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;48;24;48;;;;vpos;;v;;r&apos;img_ref&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_ASIDE_NAME;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;39;25;39;;;;vpos;;v;;r&apos;name&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_ASIDE_PRICE1;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;44;27;44;;;;vpos;;v;;r&apos;price&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_ASIDE_PRICE2;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;45;27;45;;;;vpos;;v;;r&apos;price2&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_ASIDE_PRICE3;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;46;27;46;;;;vpos;;v;;r&apos;price3&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_ASIDE_PRICE4;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;47;27;47;;;;vpos;;v;;r&apos;price4&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_ASIDE_TABLE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;38;26;38;;;;vpos;;v;;r&apos;sstore_product&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_COMMENT_BY;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;80;29;80;;;;vpos;;v;;r&apos;by_&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_COMMENT_COMMENT;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;84;34;84;;;;vpos;;v;;r&apos;comment&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_COMMENT_PRODID;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;79;33;79;;;;vpos;;v;;r&apos;prod_id&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_COMMENT_RATING;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;82;33;82;;;;vpos;;v;;r&apos;rating&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_COMMENT_SHORT;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;81;32;81;;;;vpos;;v;;r&apos;short_ass&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_COMMENT_TABLE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;78;32;78;;;;vpos;;v;;r&apos;sstore_product_comments&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_COMMENT_TITLE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;83;32;83;;;;vpos;;v;;r&apos;title&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_RAT_GE1;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;71;26;71;;;;vpos;;v;;r&apos;geral1&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_RAT_GE2;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;72;26;72;;;;vpos;;v;;r&apos;geral2&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_RAT_GE3;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;73;26;73;;;;vpos;;v;;r&apos;geral3&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_RAT_GE4;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;74;26;74;;;;vpos;;v;;r&apos;geral4&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_RAT_GE5;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;75;26;75;;;;vpos;;v;;r&apos;geral5&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_RAT_ID;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;65;25;65;;;;vpos;;v;;r&apos;internal_&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_RAT_TABLE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;64;28;64;;;;vpos;;v;;r&apos;sstore_product_ratings&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_RAT_WE1;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;66;26;66;;;;vpos;;v;;r&apos;we1&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_RAT_WE2;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;67;26;67;;;;vpos;;v;;r&apos;we2&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_RAT_WE3;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;68;26;68;;;;vpos;;v;;r&apos;we3&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_RAT_WE4;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;69;26;69;;;;vpos;;v;;r&apos;we4&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_PROD_RAT_WE5;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;70;26;70;;;;vpos;;v;;r&apos;we5&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_SIDE_CATEGORY_HIDE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;53;33;53;;;;vpos;;v;;r&apos;hide_&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_SIDE_CATEGORY_LINK;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;58;33;58;;;;vpos;;v;;r&apos;sstore_side_category_link&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_SIDE_CATEGORY_LINK_A;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;60;35;60;;;;vpos;;v;;r&apos;link&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_SIDE_CATEGORY_LINK_REF;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;59;37;59;;;;vpos;;v;;r&apos;refer&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_SIDE_CATEGORY_LINK_TITLE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;61;39;61;;;;vpos;;v;;r&apos;title&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_SIDE_CATEGORY_NAME;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;52;33;52;;;;vpos;;v;;r&apos;main_name&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_SIDE_CATEGORY_ORDER;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;55;34;55;;;;vpos;;v;;r&apos;order_&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_SIDE_CATEGORY_REF;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;54;32;54;;;;vpos;;v;;r&apos;ref_id&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOME_SIDE_CATEGORY_TABLE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;51;34;51;;;;vpos;;v;;r&apos;sstore_side_category&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="IMAGES;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f8;10;14;10;;;;vpos;;v;;r&apos;images/&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="LOGOS;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f8;11;13;11;;;;vpos;;v;;r&apos;images/logos/&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_ALINKS_ARRAY_ID;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;31;34;31;;;;vpos;;v;;r&apos;array_id&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_ALINKS_LINK;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;33;30;33;;;;vpos;;v;;r&apos;array_link&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_ALINKS_NAME;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;34;30;34;;;;vpos;;v;;r&apos;name&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_ALINKS_ORDER;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;32;31;32;;;;vpos;;v;;r&apos;order_&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_ALINKS_TABLE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f10;30;31;30;;;;vpos;;v;;r&apos;sstore_main_nav_alink&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_DES;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;25;21;25;;;;vpos;;v;;r&apos;des&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_HIDE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;21;22;21;;;;vpos;;v;;r&apos;hide&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_IMG_REF;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;23;25;23;;;;vpos;;v;;r&apos;img_ref&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_LINK_ARRAY_ID;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;27;31;27;;;;vpos;;v;;r&apos;link_array_id_&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_MAIN_LINK;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;26;27;26;;;;vpos;;v;;r&apos;main_link&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_NAME;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;22;22;22;;;;vpos;;v;;r&apos;nav_name&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_ORDER;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;20;23;20;;;;vpos;;v;;r&apos;order_&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_TABLE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;18;23;18;;;;vpos;;v;;r&apos;sstore_main_nav&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_TITLE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;24;23;24;;;;vpos;;v;;r&apos;title&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAIN_NAV_TYPE;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;19;22;19;;;;vpos;;v;;r&apos;type&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAX_FILE_SIZE;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f44;38;57;38;;;;vpos;;v;;r10485760;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAX_HEIGHT;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f41;46;51;46;;;;vpos;;v;;r1500;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAX_WIDTH;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f41;45;50;45;;;;vpos;;v;;r1500;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MEMORY_LIMIT;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f43;26;55;26;;;;vpos;;v;;r&apos;30M&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MINI;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f8;8;12;8;;;;vpos;;v;;r&apos;class/Mini.php?src=&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="NOT_FOUND_IMAGE;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f45;47;60;47;;;;vpos;;v;;r&apos;&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="OPTIPNG_ENABLED;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f45;64;60;64;;;;vpos;;v;;r&#10;Description&#10;     Additional Parameters: LOCAL_FILE_BASE_DIRECTORY = Override the DOCUMENT_ROOT. This is best used in timthumb-config.php;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="OPTIPNG_PATH;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f43;65;55;65;;;;vpos;;v;;r&apos;/usr/bin/optipng&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PNG_IS_TRANSPARENT;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f47;49;65;49;;;;vpos;;v;;rFALSE;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PNGCRUSH_ENABLED;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f46;66;62;66;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PNGCRUSH_PATH;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f43;67;56;67;;;;vpos;;v;;r&apos;/usr/bin/pngcrush&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PRODUCTS;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f8;12;16;12;;;;vpos;;v;;r&apos;images/products/&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/class/AdManager.class.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\menubody.php;f14;1;47;1;;C:\AppServ\www\webStore\admin\require\template\etc\menunav_del.php;f14;2;47;2;;C:\AppServ\www\webStore\admin\require\template\etc\menubody_del.php;f14;2;47;2;;C:\AppServ\www\webStore\admin\require\template\etc\alterlinks.php;f14;1;47;1;;C:\AppServ\www\webStore\admin\require\template\etc\alinks.php;f14;1;47;1;;C:\AppServ\www\webStore\admin\require\template\etc\menunav.php;f14;1;47;1;;C:\AppServ\www\webStore\admin\require\template\etc\alterproduct.php;f14;1;47;1;;C:\AppServ\www\webStore\admin\require\template\etc\alterprod.php;f14;1;47;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/class/CatManager.class.php;PHP:PHP Include;C:\AppServ\www\webStore\require\template\header.php;f13;2;47;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/class/Home.class.php;PHP:PHP Include;C:\AppServ\www\webStore\require\template\home.php;f16;7;44;7;;C:\AppServ\www\webStore\require\template\view.php;f15;5;43;5;;C:\AppServ\www\webStore\require\template\Codelobster0.php;f15;5;43;5;;C:\AppServ\www\webStore\require\template\category.php;f15;5;43;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/class/SQManager.class.php;PHP:PHP Include;C:\AppServ\www\webStore\require\class\CatManager.class.php;f13;2;46;2;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+</treenode>
+<treenode node="require/config/Config.php;PHP:PHP Include;C:\AppServ\www\webStore\require\class\CatManager.class.php;f13;1;38;1;;C:\AppServ\www\webStore\index.php;f14;1;39;1;;C:\AppServ\www\webStore\require\class\Home.class.php;f14;2;39;2;;C:\AppServ\www\webStore\require\template\home.php;f16;8;41;8;;C:\AppServ\www\webStore\require\template\header.php;f13;1;38;1;;C:\AppServ\www\webStore\require\template\view.php;f15;6;40;6;;C:\AppServ\www\webStore\require\template\Codelobster0.php;f15;6;40;6;;C:\AppServ\www\webStore\require\template\category.php;f15;6;40;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/category.php;PHP:PHP Include;C:\AppServ\www\webStore\view.php;f17;7;46;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/error.php;PHP:PHP Include;C:\AppServ\www\webStore\view.php;f17;10;43;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/addproduct.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\panel.php;f16;44;51;44;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/alinks.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\panel.php;f16;35;47;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/alinks_alter.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\alterlinks.php;f15;11;52;11;;C:\AppServ\www\webStore\admin\require\template\etc\alinks.php;f15;11;52;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/alinks_del.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\alterlinks.php;f15;17;50;17;;C:\AppServ\www\webStore\admin\require\template\etc\alinks.php;f15;17;50;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/alinks_new.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\alterlinks.php;f15;22;50;22;;C:\AppServ\www\webStore\admin\require\template\etc\alinks.php;f15;22;50;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/alterprod.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\panel.php;f16;47;50;47;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/alterprod_alter.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\alterprod.php;f15;11;55;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/menubody.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\panel.php;f16;41;49;41;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/menubody_alter.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\menubody.php;f15;11;54;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/menubody_del.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\menubody.php;f15;17;52;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/menubody_new.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\menubody.php;f15;22;52;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/menunav.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\panel.php;f16;38;48;38;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/menunav_alter.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\menunav.php;f15;11;53;11;;C:\AppServ\www\webStore\admin\require\template\etc\alterproduct.php;f15;11;53;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/menunav_del.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\menunav.php;f15;17;51;17;;C:\AppServ\www\webStore\admin\require\template\etc\alterproduct.php;f15;17;51;17;;C:\AppServ\www\webStore\admin\require\template\etc\alterprod.php;f15;17;51;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/menunav_new.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\menunav.php;f15;28;51;28;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/etc/menunav_order.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\require\template\etc\menunav.php;f15;23;53;23;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/footer.php;PHP:PHP Include;C:\AppServ\www\webStore\register.php;f20;17;47;17;;C:\AppServ\www\webStore\login.php;f20;32;47;32;;C:\AppServ\www\webStore\admin\index.php;f14;8;41;8;;C:\AppServ\www\webStore\index.php;f14;4;41;4;;C:\AppServ\www\webStore\view.php;f15;14;42;14;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/header.php;PHP:PHP Include;C:\AppServ\www\webStore\register.php;f20;0;47;0;;C:\AppServ\www\webStore\login.php;f20;0;47;0;;C:\AppServ\www\webStore\admin\index.php;f14;1;41;1;;C:\AppServ\www\webStore\index.php;f14;2;41;2;;C:\AppServ\www\webStore\view.php;f15;1;42;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/home.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\index.php;f15;7;40;7;;C:\AppServ\www\webStore\index.php;f14;3;39;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/panel.php;PHP:PHP Include;C:\AppServ\www\webStore\admin\index.php;f15;5;41;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/template/view.php;PHP:PHP Include;C:\AppServ\www\webStore\view.php;f16;4;41;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="SESSION_ID;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f8;4;18;4;;;;vpos;;v;;rmd5(&apos;SStore_&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="SESSION_NAME;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f8;3;20;3;;;;vpos;;v;;rmd5(&apos;SStore__&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="SRC;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f8;9;11;9;;;;vpos;;v;;r&apos;http://127.0.0.1/webStore/&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="TABLE_USERS;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;89;20;89;;;;vpos;;v;;r&apos;sstore_user&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="timthumb-config.php;PHP:PHP Include;C:\AppServ\www\webStore\require\class\Mini.php;f75;23;94;23;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="USERS_EMAIL;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;93;20;93;;;;vpos;;v;;r&apos;email&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="USERS_ID;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;90;17;90;;;;vpos;;v;;r&apos;id_&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="USERS_LEVEL;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;91;20;91;;;;vpos;;v;;r&apos;level&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="USERS_PASS;PHP:PHP Word;C:\AppServ\www\webStore\require\config\Config.php;f9;92;19;92;;;;vpos;;v;;r&apos;pass&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="VERSION;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f9;21;16;21;;;;vpos;;v;;r&#10;Description&#10;     TimThumb by Ben Gillbanks and Mark Maunder Based on work done by Tim McDaniels and Darren Hoyt http://code.google.com/p/timthumb/;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WAIT_BETWEEN_FETCH_ERRORS;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f53;40;78;40;;;;vpos;;v;;r3600;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_COLOR_DEPTH;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f48;103;67;103;;;;vpos;;v;;r&apos;24&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_CUTYCAPT;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f45;99;61;99;;;;vpos;;v;;r&apos;/usr/local/bin/CutyCapt&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_ENABLED;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f44;98;59;98;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_IMAGE_FORMAT;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f49;104;69;104;;;;vpos;;v;;r&apos;png&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_JAVA_ON;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f44;108;59;108;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_JAVASCRIPT_ON;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f49;107;70;107;;;;vpos;;v;;rtrue;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_PLUGINS_ON;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f47;109;65;109;;;;vpos;;v;;rtrue;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_PROXY;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f42;110;55;110;;;;vpos;;v;;r&apos;&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_SCREEN_X;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f45;101;61;101;;;;vpos;;v;;r&apos;1024&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_SCREEN_Y;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f45;102;61;102;;;;vpos;;v;;r&apos;768&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_TIMEOUT;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f44;105;59;105;;;;vpos;;v;;r&apos;20&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_USER_AGENT;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f47;106;65;106;;;;vpos;;v;;r&quot;Mozilla/5.0 (Windows;s U;s Windows NT 5.1;s en-GB;s rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_XVFB;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f42;100;54;100;;;;vpos;;v;;r&apos;/usr/bin/xvfb-run&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_XVFB_RUNNING;PHP:PHP Word;C:\AppServ\www\webStore\require\class\Mini.php;f48;111;68;111;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="AdManager;PHP:Class Name;C:\AppServ\www\webStore\admin\require\class\SQManager.php;f0;5;0;10;;C:\AppServ\www\webStore\admin\require\class\CommandMan.php;f0;4;1;53;;C:\AppServ\www\webStore\admin\require\class\AdManager.class.php;f0;5;1;48;;;;vpos;;v;;r;;d0,6;;b0,0;;m">
+<treenode node="addBodyCat;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\CommandMan.php;f1;29;2;32;;;;vpos;;v;;r;;d39,29;;b0,0;;mnav_name;;parray;;p">
+</treenode>
+<treenode node="addMenuCat;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\CommandMan.php;f1;49;2;52;;;;vpos;;v;;r;;d80,49;;b0,0;;mnav_name;;ptype;;phide;;pimg_ref;;ptitle;;pdes;;parray_id;;p">
+</treenode>
+<treenode node="addNewProduct;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\CommandMan.php;f1;14;2;18;;;;vpos;;v;;r;;d92,14;;b0,0;;mnav_name;;phide;;pimg_ref;;pdes;;pprice;;pprice2;;pprice3;;pprice4;;p">
+</treenode>
+<treenode node="attId;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\CommandMan.php;f1;9;2;12;;;;vpos;;v;;r&#10;Definition&#10;    attId($id)&#10;&#10;Description&#10;     addproduct.php;;d20,9;;b0,0;;mid;;p">
+</treenode>
+<treenode node="deleteBodyCat;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\AdManager.class.php;f1;22;2;26;;;;vpos;;v;;r;;d28,22;;b0,0;;mid;;p">
+</treenode>
+<treenode node="deleteMenuCat;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\AdManager.class.php;f1;16;2;20;;C:\AppServ\www\webStore\admin\require\class\CommandMan.php;f1;39;2;42;;C:\AppServ\www\webStore\admin\require\class\AdManager.class.php;f1;16;2;20;;;;vpos;;v;;r;;d28,16;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getBodyCat;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\AdManager.class.php;f1;28;2;33;;;;vpos;;v;;r;;d25,28;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getMenuCat;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\AdManager.class.php;f1;9;2;14;;C:\AppServ\www\webStore\admin\require\class\AdManager.class.php;f1;9;2;14;;;;vpos;;v;;r;;d25,9;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getProducts;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\AdManager.class.php;f1;42;2;47;;;;vpos;;v;;r;;d26,42;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getTopLinks;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\AdManager.class.php;f1;35;2;40;;;;vpos;;v;;r;;d26,35;;b0,0;;mid;;p">
+</treenode>
+<treenode node="setBodyCat;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\CommandMan.php;f1;24;2;27;;;;vpos;;v;;r;;d44,24;;b0,0;;mid;;pnav_name;;parray;;p">
+</treenode>
+<treenode node="setMenuCat;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\CommandMan.php;f1;44;2;47;;;;vpos;;v;;r;;d70,44;;b0,0;;mid;;plink_array;;pname;;pimg_ref;;ptitle;;pdesc;;p">
+</treenode>
+</treenode>
+<treenode node="AdUser;PHP:Class Name;C:\AppServ\www\webStore\admin\require\class\AdUser.class.php;f0;5;1;49;;;;vpos;;v;;r;;d0,6;;b0,0;;m">
+<treenode node="getAdmin;PHP:Function Name;C:\AppServ\www\webStore\admin\require\class\AdUser.class.php;f8;9;2;48;;;;vpos;;v;;r;;d44,9;;b1,0;;memail;;ppassword;;p">
+</treenode>
+</treenode>
+<treenode node="CatManager;PHP:Class Name;C:\AppServ\www\webStore\require\class\CatManager.class.php;f0;4;1;24;;;;vpos;;vSQManager;;c;;r;;d0,5;;b0,0;;m">
+<treenode node="getFirstOrLast;PHP:Function Name;C:\AppServ\www\webStore\require\class\CatManager.class.php;f8;14;2;17;;;;vpos;;v;;r;;d39,14;;b1,0;;mfirst;;p">
+</treenode>
+<treenode node="getNavCat;PHP:Function Name;C:\AppServ\www\webStore\require\class\CatManager.class.php;f8;9;2;12;;;;vpos;;v;;r;;d28,9;;b1,0;;m">
+</treenode>
+<treenode node="getNavLinks;PHP:Function Name;C:\AppServ\www\webStore\require\class\CatManager.class.php;f8;19;2;23;;;;vpos;;v;;r;;d33,19;;b1,0;;mid;;p">
+</treenode>
+</treenode>
+<treenode node="ConnectDB;PHP:Class Name;C:\AppServ\www\webStore\require\class\ConnectDB.class.php;f0;2;1;23;;;;vpos;;v;;r;;d0,3;;b0,0;;m">
+</treenode>
+<treenode node="Home;PHP:Class Name;C:\AppServ\www\webStore\require\class\Home.class.php;f0;4;1;55;;;;vpos;;v;;r;;d0,5;;b0,0;;m">
+<treenode node="getBoxItems;PHP:Function Name;C:\AppServ\www\webStore\require\class\Home.class.php;f8;35;2;38;;;;vpos;;v;;r;;d30,35;;b1,0;;m">
+</treenode>
+<treenode node="getComments;PHP:Function Name;C:\AppServ\www\webStore\require\class\Home.class.php;f1;9;2;13;;;;vpos;;v;;r;;d26,9;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getProducts;PHP:Function Name;C:\AppServ\www\webStore\require\class\Home.class.php;f1;28;2;33;;;;vpos;;v;;r;;d26,28;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getRatings;PHP:Function Name;C:\AppServ\www\webStore\require\class\Home.class.php;f1;21;2;26;;;;vpos;;v;;r;;d25,21;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getRelated;PHP:Function Name;C:\AppServ\www\webStore\require\class\Home.class.php;f1;15;2;19;;;;vpos;;v;;r;;d25,15;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getSideCategories;PHP:Function Name;C:\AppServ\www\webStore\require\class\Home.class.php;f8;45;2;48;;;;vpos;;v;;r;;d36,45;;b1,0;;m">
+</treenode>
+<treenode node="getSideSubCategories;PHP:Function Name;C:\AppServ\www\webStore\require\class\Home.class.php;f8;50;2;53;;;;vpos;;v;;r;;d46,50;;b1,0;;mref_id;;p">
+</treenode>
+<treenode node="getVitrinItems;PHP:Function Name;C:\AppServ\www\webStore\require\class\Home.class.php;f8;40;2;43;;;;vpos;;v;;r;;d33,40;;b1,0;;m">
+</treenode>
+</treenode>
+<treenode node="SQManager;PHP:Class Name;C:\AppServ\www\webStore\require\class\SQManager.class.php;f0;17;1;65;;;;vpos;;v;;r;;d0,18;;b0,0;;m">
+<treenode node="delete;PHP:Function Name;C:\AppServ\www\webStore\require\class\SQManager.class.php;f8;61;2;63;;;;vpos;;v;;r;;d50,61;;b1,0;;mtable;;pcondition;;pexec;;p">
+</treenode>
+<treenode node="getCon;PHP:Function Name;C:\AppServ\www\webStore\require\class\SQManager.class.php;f8;34;2;36;;;;vpos;;v;;r;;d25,34;;b1,0;;m">
+</treenode>
+<treenode node="insert;PHP:Function Name;C:\AppServ\www\webStore\require\class\SQManager.class.php;f8;46;2;49;;;;vpos;;v;;r;;d50,46;;b1,0;;mtable;;pcondition;;pexec;;p">
+</treenode>
+<treenode node="prepExec;PHP:Function Name;C:\AppServ\www\webStore\require\class\SQManager.class.php;f9;40;2;43;;;;vpos;;v;;r;;d46,40;;b3,0;;mprepare;;pexecute;;p">
+</treenode>
+<treenode node="select;PHP:Function Name;C:\AppServ\www\webStore\require\class\SQManager.class.php;f8;52;2;55;;;;vpos;;v;;r;;d58,52;;b1,0;;mfield;;ptable;;pcondition;;pexec;;p">
+</treenode>
+<treenode node="setCon;PHP:Function Name;C:\AppServ\www\webStore\require\class\SQManager.class.php;f9;21;2;32;;;;vpos;;v;;r;;d26,21;;b3,0;;m">
+</treenode>
+<treenode node="update;PHP:Function Name;C:\AppServ\www\webStore\require\class\SQManager.class.php;f8;57;2;59;;;;vpos;;v;;r;;d50,57;;b1,0;;mtable;;pcondition;;pexec;;p">
+</treenode>
+</treenode>
+<treenode node="timthumb;PHP:Class Name;C:\AppServ\www\webStore\require\class\Mini.php;f0;130;1;1167;;;;vpos;;v;;r;;d15,130;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f8;168;2;264;;;;vpos;;v;;r;;d30,168;;b1,0;;m">
+</treenode>
+<treenode node="__destruct;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f8;265;2;270;;;;vpos;;v;;r;;d29,265;;b1,0;;m">
+</treenode>
+<treenode node="calcDocRoot;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;743;2;765;;;;vpos;;v;;r;;d33,743;;b2,0;;m">
+</treenode>
+<treenode node="cleanCache;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;435;2;471;;;;vpos;;v;;r;;d32,435;;b2,0;;m">
+</treenode>
+<treenode node="curlWrite;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f15;927;2;935;;;;vpos;;v;;r;;d41,927;;b1,5;;mh;;pd;;p">
+</treenode>
+<treenode node="debug;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;1038;2;1048;;;;vpos;;v;;r;;d39,1038;;b2,0;;mlevel;;pmsg;;p">
+</treenode>
+<treenode node="error;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;387;2;391;;;;vpos;;v;;r;;d31,387;;b2,0;;merr;;p">
+</treenode>
+<treenode node="getIP;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;1023;2;1037;;;;vpos;;v;;r;;d27,1023;;b2,0;;m">
+</treenode>
+<treenode node="getLocalImagePath;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;766;2;828;;;;vpos;;v;;r;;d43,766;;b2,0;;msrc;;p">
+</treenode>
+<treenode node="getMimeType;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;1052;2;1058;;;;vpos;;v;;r;;d38,1052;;b2,0;;mfile;;p">
+</treenode>
+<treenode node="getURL;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;1080;2;1140;;;;vpos;;v;;r;;d43,1080;;b2,0;;murl;;ptempfile;;p">
+</treenode>
+<treenode node="handleErrors;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;296;2;316;;;;vpos;;v;;r;;d34,296;;b2,0;;m">
+</treenode>
+<treenode node="haveErrors;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;392;2;397;;;;vpos;;v;;r;;d32,392;;b2,0;;m">
+</treenode>
+<treenode node="is404;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;1164;2;1166;;;;vpos;;v;;r;;d27,1164;;b2,0;;m">
+</treenode>
+<treenode node="openImage;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;1004;2;1022;;;;vpos;;v;;r;;d46,1004;;b2,0;;mmimeType;;psrc;;p">
+</treenode>
+<treenode node="param;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;997;2;1003;;;;vpos;;v;;r;;d51,997;;b2,0;;mproperty;;pdefault;;p">
+</treenode>
+<treenode node="processImageAndWriteToCache;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;472;2;742;;;;vpos;;v;;r;;d60,472;;b2,0;;mlocalImage;;p">
+</treenode>
+<treenode node="realpath;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;829;2;838;;;;vpos;;v;;r;;d35,829;;b2,0;;mpath;;p">
+</treenode>
+<treenode node="returnBytes;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f18;1070;2;1078;;;;vpos;;v;;r;;d49,1070;;b2,5;;msize_str;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f8;271;2;295;;;;vpos;;v;;r;;d22,271;;b1,0;;m">
+</treenode>
+<treenode node="sanityFail;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;1049;2;1051;;;;vpos;;v;;r;;d36,1049;;b2,0;;mmsg;;p">
+</treenode>
+<treenode node="securityChecks;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;995;2;996;;;;vpos;;v;;r;;d36,995;;b2,0;;m">
+</treenode>
+<treenode node="sendImageHeaders;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;969;2;994;;;;vpos;;v;;r;;d58,969;;b2,0;;mmimeType;;pdataSize;;p">
+</treenode>
+<treenode node="serveCacheFile;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;936;2;968;;;;vpos;;v;;r;;d36,936;;b2,0;;m">
+</treenode>
+<treenode node="serveErrors;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;398;2;411;;;;vpos;;v;;r;;d33,398;;b2,0;;m">
+</treenode>
+<treenode node="serveExternalImage;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;896;2;926;;;;vpos;;v;;r;;d40,896;;b2,0;;m">
+</treenode>
+<treenode node="serveImg;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;1141;2;1160;;;;vpos;;v;;r;;d35,1141;;b2,0;;mfile;;p">
+</treenode>
+<treenode node="serveInternalImage;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;412;2;434;;;;vpos;;v;;r;;d40,412;;b2,0;;m">
+</treenode>
+<treenode node="serveWebshot;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;843;2;895;;;;vpos;;v;;r;;d34,843;;b2,0;;m">
+</treenode>
+<treenode node="set404;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;1161;2;1163;;;;vpos;;v;;r;;d28,1161;;b2,0;;m">
+</treenode>
+<treenode node="setMemoryLimit;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;1059;2;1069;;;;vpos;;v;;r;;d36,1059;;b2,0;;m">
+</treenode>
+<treenode node="start;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f15;152;2;167;;;;vpos;;v;;r;;d31,152;;b1,5;;m">
+</treenode>
+<treenode node="toDelete;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;839;2;842;;;;vpos;;v;;r;;d35,839;;b2,0;;mname;;p">
+</treenode>
+<treenode node="tryBrowserCache;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;317;2;352;;;;vpos;;v;;r;;d37,317;;b2,0;;m">
+</treenode>
+<treenode node="tryServerCache;PHP:Function Name;C:\AppServ\www\webStore\require\class\Mini.php;f11;353;2;386;;;;vpos;;v;;r;;d36,353;;b2,0;;m">
+</treenode>
+</treenode>
+<treenode node="Tools;PHP:Class Name;C:\AppServ\www\webStore\require\class\Tools.class.php;f0;2;1;38;;;;vpos;;v;;r;;d0,3;;b0,0;;m">
+<treenode node="setCheckEmail;PHP:Function Name;C:\AppServ\www\webStore\require\class\Tools.class.php;f8;5;2;13;;;;vpos;;v;;r;;d38,5;;b1,0;;memail;;p">
+</treenode>
+<treenode node="setCheckPass;PHP:Function Name;C:\AppServ\www\webStore\require\class\Tools.class.php;f8;15;2;23;;;;vpos;;v;;r;;d36,15;;b1,0;;mpass;;p">
+</treenode>
+<treenode node="slakrypt;PHP:Function Name;C:\AppServ\www\webStore\require\class\Tools.class.php;f9;25;3;34;;;;vpos;;v;;r;;d34,25;;b1,0;;mparam;;p">
+</treenode>
+</treenode>
+<treenode node="User;PHP:Class Name;C:\AppServ\www\webStore\require\class\User.class.php;f0;5;1;40;;;;vpos;;vSQManager;;c;;r;;d0,6;;b0,0;;m">
+<treenode node="setLogin;PHP:Function Name;C:\AppServ\www\webStore\require\class\User.class.php;f8;9;2;39;;;;vpos;;v;;r;;d44,9;;b1,0;;memail;;ppassword;;p">
+</treenode>
+</treenode>
+</phptree>
+</codestructure>
