@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\AppServ\www\loja\SStore.clpprj">
+	<settings><PM_URL><![CDATA[C:\AppServ\www\loja\]]></PM_URL><PM_HOME_URL><![CDATA[C:\AppServ\www\loja\]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+	</lastopfiles>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\AppServ\www\loja\public\js\jpost\jLogin.php" crc="1501818725"/>
+		<file name="C:\AppServ\www\loja\public\js\jpost\correios.php" crc="1501716115"/>
+		<file name="C:\AppServ\www\loja\public\js\view.js" crc="1501814791"/>
+		<file name="C:\AppServ\www\loja\public\js\user.js" crc="1501818218"/>
+		<file name="C:\AppServ\www\loja\public\js\jquery.js" crc="1497407792"/>
+		<file name="C:\AppServ\www\loja\public\css\view.css" crc="1501715670"/>
+		<file name="C:\AppServ\www\loja\public\css\register.css" crc="1500399630"/>
+		<file name="C:\AppServ\www\loja\public\css\login.css" crc="1501021596"/>
+		<file name="C:\AppServ\www\loja\public\css\home.css" crc="1501020206"/>
+		<file name="C:\AppServ\www\loja\public\css\header.css" crc="1501718417"/>
+		<file name="C:\AppServ\www\loja\public\css\footer.css" crc="1501030252"/>
+		<file name="C:\AppServ\www\loja\public\css\category.css" crc="1501037719"/>
+		<file name="C:\AppServ\www\loja\public\admin\js\menubody.js" crc="1501014469"/>
+		<file name="C:\AppServ\www\loja\public\admin\js\admin.js" crc="1501017919"/>
+		<file name="C:\AppServ\www\loja\public\admin\css\panel.css" crc="1501084143"/>
+		<file name="C:\AppServ\www\loja\public\admin\css\home.css" crc="1501083877"/>
+		<file name="C:\AppServ\www\loja\public\admin\css\header.css" crc="1501084061"/>
+		<file name="C:\AppServ\www\loja\public\admin\logout.php" crc="1500481055"/>
+		<file name="C:\AppServ\www\loja\public\admin\index.php" crc="1500445346"/>
+		<file name="C:\AppServ\www\loja\public\view.php" crc="1501814063"/>
+		<file name="C:\AppServ\www\loja\public\tasks.txt" crc="1500950512"/>
+		<file name="C:\AppServ\www\loja\public\register.php" crc="1501814224"/>
+		<file name="C:\AppServ\www\loja\public\login.php" crc="1501816637"/>
+		<file name="C:\AppServ\www\loja\public\index.php" crc="1501818853"/>
+		<file name="C:\AppServ\www\loja\public\fakeid.txt" crc="1500003813"/>
+		<file name="C:\AppServ\www\loja\public\colors.txt" crc="1501021038"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\menunav_new.php" crc="1501015090"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\menunav_del.php" crc="1500948201"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\menunav_alter.php" crc="1501015080"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\menunav.php" crc="1501015112"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\menubody_new.php" crc="1501014543"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\menubody_del.php" crc="1501014192"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\menubody_alter.php" crc="1501013552"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\menubody.php" crc="1501014778"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\alterprod_alter.php" crc="1501020112"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\alterprod.php" crc="1501020063"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\alinks_new.php" crc="1501015248"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\alinks_del.php" crc="1501015254"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\alinks_alter.php" crc="1501015286"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\alinks.php" crc="1501015816"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\etc\addproduct.php" crc="1501017714"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\panel.php" crc="1501018684"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\logout.php" crc="1500480753"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\home.php" crc="1500481627"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\header.php" crc="1500445286"/>
+		<file name="C:\AppServ\www\loja\private\layout\adm\footer.php" crc="1500406346"/>
+		<file name="C:\AppServ\www\loja\private\layout\view.php" crc="1501814698"/>
+		<file name="C:\AppServ\www\loja\private\layout\requests.php" crc="1501718761"/>
+		<file name="C:\AppServ\www\loja\private\layout\logout.php" crc="1501719361"/>
+		<file name="C:\AppServ\www\loja\private\layout\home.php" crc="1501814350"/>
+		<file name="C:\AppServ\www\loja\private\layout\header.php" crc="1501814157"/>
+		<file name="C:\AppServ\www\loja\private\layout\footer.php" crc="1501726411"/>
+		<file name="C:\AppServ\www\loja\private\layout\error.php" crc="1501031765"/>
+		<file name="C:\AppServ\www\loja\private\layout\category.php" crc="1501814285"/>
+		<file name="C:\AppServ\www\loja\private\layout\account.php" crc="1501718769"/>
+		<file name="C:\AppServ\www\loja\private\class\CEP\HelperViaCep.php" crc="1493226442"/>
+		<file name="C:\AppServ\www\loja\private\class\CEP\CorreioService.php" crc="1501714481"/>
+		<file name="C:\AppServ\www\loja\private\class\CEP\CEPInterface.php" crc="1501713733"/>
+		<file name="C:\AppServ\www\loja\private\class\CEP\BuscaViaCEPJSON.php" crc="1501716054"/>
+		<file name="C:\AppServ\www\loja\private\class\CEP\BuscaViaCEP.php" crc="1501716267"/>
+		<file name="C:\AppServ\www\loja\private\class\admin\jLogin.php" crc="1500445402"/>
+		<file name="C:\AppServ\www\loja\private\class\admin\CommandMan.php" crc="1501019129"/>
+		<file name="C:\AppServ\www\loja\private\class\admin\AdUser.class.php" crc="1500445566"/>
+		<file name="C:\AppServ\www\loja\private\class\admin\AdManager.class.php" crc="1501020146"/>
+		<file name="C:\AppServ\www\loja\private\class\User.class.php" crc="1501818372"/>
+		<file name="C:\AppServ\www\loja\private\class\Tools.class.php" crc="1501818540"/>
+		<file name="C:\AppServ\www\loja\private\class\SQManager.class.php" crc="1501818644"/>
+		<file name="C:\AppServ\www\loja\private\class\Mini.php" crc="1497909744"/>
+		<file name="C:\AppServ\www\loja\private\class\Home.class.php" crc="1501726811"/>
+		<file name="C:\AppServ\www\loja\private\class\CatManager.class.php" crc="1501818407"/>
+		<file name="C:\AppServ\www\loja\private\config.php" crc="1501815628"/>
+	</filescache>
+</project>

@@ -1,0 +1,51 @@
+main > nav{ background: #e4e4e4; width: 20%; height: 66rem; float: left;}
+
+	/*categories and links*/
+	main > nav > ul { float: left; width: 100%; padding: 1rem;}
+	main > nav > ul > li { float: left; width: 90%; margin-bottom: .5rem;}
+	
+	main > nav > ul > li > a { float: left; width: 100%; padding: .5rem;}
+	main > nav > ul > li > a:hover { background: #53ac63; color: #def0db; }
+	
+	/*subcategories and sub links*/
+	main > nav > ul > li > p{ cursor: pointer; padding: .5rem; }
+	main > nav > ul > li > ul { float: left; width: 100%; }
+	main > nav > ul > li > ul > li { float: left; width: 100%; margin-left: 1rem; }
+
+	main > nav > ul > li > ul > li > a{ float: left; width: 90%; margin-left: 1rem; padding: .5rem; }
+	main > nav > ul > li > ul > li > a:hover,
+	.marked{ background: #53ac63; color: #def0db; }
+ 
+
+main > div{ float: left; padding: 1rem; width: 77%;}
+
+/*title css*/
+main > div > p:nth-of-type(1){ font-size: 2.5rem; font-weight: bolder; margin-bottom: .5rem;}
+
+/*sub div config*/
+main > section{ float: left; width: 77%; padding: 0 1rem; }
+main > section > div{ float: left; width: 100%; }
+
+/*table css*/
+main > section > div > table{ float: left; width: 100%; margin-top: 1rem;}
+main > section > div > table tr{ float: left; width: 100%; }
+main > section > div > table form > input{ height: 1.2rem; width: 3rem; }
+/*table rows*/
+main > section > div > table th{ float: left; width: 14%; background: #53ac63; padding: 1rem; border-bottom: .1rem solid #000;}
+main > section > div > table td{ float: left; width: 15%; text-align: center; padding: .5rem; border-bottom: .1rem solid #000;}
+
+/*option button*/
+main > section > div > table input{ height: 1.2rem; width: 2rem; }
+main > section > div > table a{ margin-left: .5rem;}
+main > section > div > table a:hover{ text-decoration: underline;}
+
+/*menunav_alter.php*/
+main > section > p:nth-of-type(1){ font-size: 2rem; margin-bottom: 1.5rem; text-align: center; width: 60%; }
+main > section > form{ width: 60%; float: left; border: .1rem solid #000; padding: 1rem;}
+main > section > form > div{ width: 68%; text-align: right; padding: 1rem;}
+main > section > form > div:nth-of-type(5) > textarea{ height: 5rem; }
+main > section > form > div > p{ font-size: 1rem; color: #f00; }
+main > section > form > div > p > a{ color: #45bf3c; text-decoration: underline; }
+main > section > form > div > div{ float: left; width: 50%; margin-bottom: 1rem;}
+
+/*menunav.php*/

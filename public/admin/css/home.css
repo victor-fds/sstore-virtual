@@ -1,0 +1,35 @@
+
+main > nav{ background: #e4e4e4; width: 20%; height: 100%; float: left;}
+
+main > div > div > p{ float: left; width: 100%; }
+main > div > div > p > a { text-decoration: underline; color: #45bf3c; }
+
+
+main > div{ float: left; padding: 1rem; width: 68%; }
+/*title css*/
+main > div:nth-of-type(1) > p:nth-of-type(1){ font-size: 2.5rem; font-weight: bolder; margin-bottom: .5rem;}
+
+main form{
+	border: .1rem solid #CCCCCC;
+	border-radius: 1rem;	
+	float: left;
+	width: 50rem;
+	height: 20rem;
+	float: left;
+}
+main form > div:nth-of-type(1),
+main form > div:nth-of-type(2),
+main form > div:nth-of-type(3){ float: left; margin: 1rem 1.5rem; text-align: right; width: 33rem; }
+
+/*return*/
+main form div span{ width: 30rem; text-align: right; float: left;}
+
+
+/*input and label*/
+main form input[type='text'], input[type='password']{ border: .1rem solid #BDC7D8; height: 1rem; padding: 1rem; width: 20rem; border-radius: .3rem; }
+
+main form label{ background: none; padding: .5rem .6rem; color: #7D6666; font-weight: bolder; font-size: 1.4rem;}
+
+/*button css*/
+main form button{ background: #53ac63; border: .1rem solid #29447E; float: right; cursor: pointer; color: #FFF; padding: .4rem .7rem; font-weight: bolder; }
+main form button:hover{ opacity: 0.8; }

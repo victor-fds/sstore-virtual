@@ -1,0 +1,128 @@
+*{
+	font-family: 'Lucida', 'Tahoma', 'Verdana';
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	color: #000;
+}
+
+html{
+	font-size: 62.5%;
+	width: 100%;
+	float: left;
+	background: #f7f7f7;
+}
+
+body{
+	width: 100%;
+	font-size: 1.2rem;
+	margin: 0 auto;
+}
+
+
+header,main,footer{
+	background: #f7f7f7;
+	float: left;
+	width: 100%;
+}
+
+header{
+	margin-bottom: .5rem;
+	background: #2E7D32;
+}
+
+.inputButton{
+	height: 2.9rem;
+	border: 0.1rem solid #388E3C;
+}
+
+.input{padding: 0 0.5rem;}
+.button{background: #388E3C; color: #fff;font-weight: bolder; cursor: pointer; font-size: 1.4rem; border-radius: 0 1rem 1rem 0; }
+.link{color: #80cb70;}
+.link:hover{text-decoration: underline;}
+
+header div:nth-of-type(1),
+header div:nth-of-type(2),
+header nav{float: left; width: 100%; }
+
+
+header div:nth-of-type(1){	/*primeira div*/ }
+	header div:nth-of-type(1) > ul{	/*primeira div*/ float: left; width: 98.55%; padding: 1rem .8rem 0 1rem; background: #1B5E20; }
+		/*Lista de Links do Topo*/
+		header div:nth-of-type(1) > ul > li{float: left; margin-left: 1rem; padding-bottom: 1rem;}
+		header div:nth-of-type(1) > ul > li:first-child{margin-right: 0;}
+			header div:nth-of-type(1) > ul > li > a{font-size: 1.4rem; color: #A5D6A7; }
+			header div:nth-of-type(1) > ul > li > a:hover{text-decoration: underline;}
+			header div:nth-of-type(1) > ul > li > a i{ color: #A5D6A7; }
+			
+
+		
+header div:nth-of-type(2){/*segunda div*/ margin: .8rem 0; }
+	/*Logo, Buscador e Login*/
+	header div:nth-of-type(2) > figure, 
+	header div:nth-of-type(2) > form{float: left;}
+	
+	header div:nth-of-type(2) > figure{width: 30%; text-align: center;}
+	header div:nth-of-type(2) > figure img{width: 26rem; height: 8.2rem;}
+	
+	header div:nth-of-type(2) > form{width: 45%; margin: 1.6rem 0; padding: 0 1rem;}
+	header div:nth-of-type(2) > form input[type="search"], button{float: left;}
+	header div:nth-of-type(2) > form input[type="search"]{width: 34rem;}
+	header div:nth-of-type(2) > form button{margin-left:-0.1rem; padding: 0 1rem;}
+	header div:nth-of-type(2) > form button:hover{opacity: 0.7;}
+		header div:nth-of-type(2) > form > div {float: left; margin: .3rem 0; width: 100%}
+		header div:nth-of-type(2) > form > div span{font-size: 1.4rem; text-align: center; color: #A5D6A7;}
+	
+	/* login and cart links */
+	header div:nth-of-type(2) > section > div {float: right; width:auto; margin: 1rem;}
+	header div:nth-of-type(2) > section > div a{ font-size: 1.4rem;color: #E8F5E9; }
+	header div:nth-of-type(2) > section > div{ background: #388E3C; border: .1rem solid #53ac63; border-radius: 1rem; padding: .5rem; margin-right: 1rem;}
+	header div:nth-of-type(2) > section > div i{ font-size: 1.7rem; color: #A5D6A7;}
+	header div:nth-of-type(2) > section > div:hover > ul { display: block;}
+	header div:nth-of-type(2) > section > div > ul { text-align: center; color: #A5D6A7; }
+	header div:nth-of-type(2) > section > div > ul > li{ margin-top: .5rem; }
+	header div:nth-of-type(2) > section > div > ul > li:hover{ background: #728e71; }
+	.dropdown{ display: none; }
+	
+/*navigation bar*/
+header nav{}
+	/*Main Navigation Bar*/
+	header nav > ul {background: #1B5E20; float: left; width: 100%; box-shadow: 0 0 .1rem 0 #4f4f4f; }
+		header nav > ul > li:nth-of-type(1){}
+		header nav > ul > li > a{ color: #E8F5E9;}
+		header nav > ul > li{float: left; position: relative; font-size: 1.2rem;}
+		header nav > ul > li:hover{background: #728e71; /*nav hover*/}
+		header nav > ul > li:nth-last-of-type(1),
+		header nav > ul > li:nth-last-of-type(2),
+		header nav > ul > li:nth-last-of-type(3){ right: 0; }
+		.lastNavCategory{ float: right; right: 0; }
+		.lastNavCategory:hover,
+		.fistNavCategory:hover{ background: none; }
+		
+		
+			/*Drop Down Itens*/
+			header nav > ul > li > a{font-size: 1.2rem; padding: 1rem; cursor: pointer; float: left;}
+			header nav > ul > li > ul{background: #fff; position: absolute; top: 100%; width: 35rem; display: none;/*drop*/
+									padding:1.5rem; box-shadow: 0 1rem 2rem #888; z-index: 3;}
+				header nav > ul > li:hover > ul{display: block;}
+				
+			header nav > ul > li > ul figure,
+			header nav > ul > li > ul > li{float: left;}
+			header nav > ul > li > ul figure{border-bottom-style: groove; margin-bottom: 1rem;}
+			header nav > ul > li > ul > figure > img,
+			header nav > ul > li > ul > figure > figcaption{float: left;}
+			header nav > ul > li > ul > figure > img{margin: 1rem; width: 10rem;}
+			header nav > ul > li > ul > figure > figcaption{width: 23rem; text-align: justify;}
+			header nav > ul > li > ul > figure > figcaption p{font-size: 1.4rem; font-weight: bolder;}
+			header nav > ul > li > ul > figure > figcaption span{}
+			header nav > ul > li > ul > figure > figcaption > a{color:#80cb70; font-size: 1.4rem; margin-top: 1rem;  padding: 0.3rem; float: right;}
+			/*Drop Down links*/
+			header nav > ul > li > ul > li {width: 50%;}
+			header nav > ul > li > ul > li > a{float: left; padding: .3rem; width: 95%; margin-bottom: .1rem;}
+			header nav > ul > li > ul > li > a:hover{background: #53ac63;}
+			
+			
+			
+			
+			

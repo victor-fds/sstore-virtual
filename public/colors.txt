@@ -1,0 +1,5 @@
+#53ac63 main green
+#45bf3c links -> site
+#def0db links light -> with nav background
+#52ad62 dark link -> vitrin boxes
+#728e71 nav hover -> header
